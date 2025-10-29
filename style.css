@@ -711,4 +711,10 @@ justify-content: center;
     .services-grid {
         grid-template-columns: 1fr;
     }
+    
+.contact-container {
+
+    grid-template-columns:  1fr;
+ 
+}
 }
